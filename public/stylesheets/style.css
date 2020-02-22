@@ -1,0 +1,23 @@
+.custom-control-label {
+  font-size:  28px;
+  font-weight: 600;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 20px;
+  margin-left: 10px;
+}
+
+.card-body {
+  display: flex;
+  justify-content: center;
+}
+
+.nonesense {
+ display: flex;
+ border: solid 1px;
+ height: 100px;
+ align-items: top;
+}
+
+.btn {
+  height: 35px;
+}
