@@ -5,7 +5,7 @@
 
 1.打開你的Termianl，複製此專案至本機電腦 https://github.com/hijerry1007/nonesenseGenerator.git
 
-2.開啟終端機，進入存放此專案的資料夾restaurant
+2.開啟終端機，進入存放此專案的資料夾
 
 3.安裝npm在Terminal輸入npm install指令
 
